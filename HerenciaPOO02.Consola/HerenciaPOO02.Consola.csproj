@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\HerenciaPOO02.Datos\HerenciaPOO02.Datos.csproj" />
+    <ProjectReference Include="..\HerenciaPOO02.Entidades\HerenciaPOO02.Entidades.csproj" />
+  </ItemGroup>
+
+</Project>
